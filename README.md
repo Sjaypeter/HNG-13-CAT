@@ -8,8 +8,7 @@ Endpoint:
 GET /me
 
 Response Format:
-
-{"status": "success", "user": {"email": "Sjaypeter.sjp@gmail.com", "name": "Peter Saint-John", "stack": "Python/Django"}, "timestamp": "2025-10-19T10:04:57.309756+00:00", "fact": "When a domestic cat goes after mice, about 1 pounce in 3 results in a catch."}
+{"status": "success", "user": {"email": "Sjaypeter.sjp@gmail.com", "name": "Peter Saint-John", "stack": "Python/Django"}, "timestamp": "2025-10-19T10:10:43.146896+00:00", "fact": "Researchers believe the word \u201ctabby\u201d comes from Attabiyah, a neighborhood in Baghdad, Iraq. Tabbies got their name because their striped coats resembled the famous wavy patterns in the silk produced in this city."}
 
 status → always "success"
 
@@ -95,7 +94,7 @@ Method: GET URL: http://127.0.0.1:8000/me
 
 This API is deployed on Railway.app
 
-Live URL: 👉 https://your-railway-app-url.up.railway.app/me
+Live URL: 👉 https://hng-13-cat-production.up.railway.app/me
 
 🧠 What I Learned
 
